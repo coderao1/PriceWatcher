@@ -2,7 +2,7 @@
 
 ## Overview
 
-**PriceWatcher** is a Python application designed to retrieve the prices of grocery products from the web using web scraping techniques. The results are displayed in a table format, making it easy for users to compare different products and brands. Users can input several details, such as the item’s common name (optionally with a specific brand), and receive organized price data in response.
+**PriceWatcher** is a Python application designed to retrieve the prices of grocery products from the web using web scraping technique. A data file is creating using a webscraping technique that is referred for to display best price. The results are displayed in a table format, making it easy for users to compare different products and brands. Users can input several details, such as the item’s common name (optionally with a specific brand), and receive organized price data in response.
 
 ## Main Features
 
