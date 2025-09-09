@@ -1,0 +1,10 @@
+# Ignore Excel data files
+pricewatcher/*.xlsx
+pricewatcher/*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
